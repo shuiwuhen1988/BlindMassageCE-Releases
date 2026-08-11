@@ -7,7 +7,8 @@
 - 版本：`2.2.0`
 - 系统：Windows 10 build 16299 及以上
 - 架构：自动适配 `win-x86` 与 `win-x64`
-- 安装包：请从本仓库的 Releases 页面下载
+- 安装包：`BlindMassageCE-2.2.0-win-universal-Setup.exe`
+- 下载位置：打开本仓库页面上的 Releases
 
 ## 主要功能
 
