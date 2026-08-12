@@ -7,7 +7,7 @@
 - 版本：`2.2.2`
 - 系统：Windows 10 build 16299 及以上
 - 架构：自动适配 `win-x86` 与 `win-x64`
-- 安装包：`BlindMassageCE-2.2.2-win-universal-Setup.exe`
+- 安装包：`盲按继教2.2.2.exe`
 - 下载位置：本仓库 Releases 中的 `v2.2.2`
 
 ## 本版修复
